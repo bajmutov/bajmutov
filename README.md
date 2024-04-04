@@ -64,6 +64,8 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" height="35" alt="Axios" title="Axios" />
     <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"  height="35" alt="Visual Studio Code" title="Visual Studio Code"/>
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="35" alt="JSON" title="JSON"/>
 </div>
 
