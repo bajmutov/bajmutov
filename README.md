@@ -43,6 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  title="Docker"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  title="GIT"/>
+  <img width="12" />
+  <i class="devicon-swiper-original colored" height="35" alt="Swiper js"  title="Swiper"></i>
 </div>
 
 ###
