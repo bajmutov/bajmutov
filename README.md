@@ -47,6 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swiper/swiper-original.svg" height="35" alt="Swiper"  title="Swiper"/>
     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" height="35" alt="Slack"  title="Slack"/>
+     <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="35" alt="Postman"  title="Postman"/>
           
           
 </div>
