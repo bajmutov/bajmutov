@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🙋‍♂️ , I'm Oleksandr </h1>
-<h3 align="center">I'm FullStack Developer from Ukraine 👨‍💻 </h3>
+<h3 align="center">I'm FullStack Developer 👨‍💻 </h3>
 
 ###
 
